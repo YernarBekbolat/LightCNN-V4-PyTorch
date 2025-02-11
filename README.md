@@ -65,15 +65,5 @@ model = LightCNN(device="cuda")  # or "cpu"
 - **Output**: 256-dimensional feature vector
 - **Verification threshold**: 0.7
 
-## Citation
-If you use this model in your research, please cite:
 
-```bibtex
-@article{yourcitation,
-  title={LightCNN-V4: Fast and Accurate Face Recognition for Central Asian Faces},
-  author={Your Name},
-  journal={Journal Name},
-  year={202X}
-}
-```
 
